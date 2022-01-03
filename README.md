@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GaoLeSi
-- 👀 I’m interested in Cybersecurity
+- 👀 I’m interested in Information Security
 - 🌱 I’m currently learning C++ and Python
 - 💞️ I’m looking to collaborate on coding activities
 - 📫 How to reach me ... @me
